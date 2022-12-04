@@ -36,3 +36,7 @@ Optionally, pass in an argument representing the desired server to connect to. I
 - Client Error Checking on Client Server Outage
 
 
+## Screenshots
+
+![Screenshots coming soon](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+

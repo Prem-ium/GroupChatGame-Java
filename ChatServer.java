@@ -104,6 +104,7 @@ public class ChatServer implements Runnable {
                             out.println("Invalid name");
                         }
                     } else if (message.startsWith("/tictactoe")) {
+                        //String ip =(message.length() > 11) ? "localhost": message.substring(11, message.length());
                         brodcast(name + " has started searching a game of Tic Tac Toe");
 
 
