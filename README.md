@@ -35,8 +35,5 @@ Optionally, pass in an argument representing the desired server to connect to. I
 - Quitting using \q or \quit
 - Client Error Checking on Client Server Outage
 
-
-## Screenshots
-
-![Screenshots coming soon](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+## Notes
+This repo will become archived as of December 8th, 2022 as it was created solely for an academic project. Updates are not likely.
